@@ -1,4 +1,4 @@
-FROM quay.io/jetstack/cert-manager-controller:latest
-FROM quay.io/jetstack/cert-manager-webhook:latest
-FROM quay.io/jetstack/cert-manager-acmesolver:latest
-FROM quay.io/jetstack/cert-manager-ctl:latest
+FROM quay.io/jetstack/cert-manager-controller:v1.12.3
+FROM quay.io/jetstack/cert-manager-webhook:v1.12.3
+FROM quay.io/jetstack/cert-manager-acmesolver:v1.12.3
+FROM quay.io/jetstack/cert-manager-ctl:v1.12.3
