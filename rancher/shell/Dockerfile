@@ -1,0 +1,1 @@
+FROM rancher/shell:0.1.20
