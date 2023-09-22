@@ -1,0 +1,1 @@
+FROM gcr.io/kasten-images/kanister:5.5.11
